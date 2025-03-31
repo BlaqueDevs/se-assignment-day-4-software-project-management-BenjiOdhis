@@ -101,8 +101,14 @@ Facilitates Communication – Makes it easier for stakeholders to understand pro
 Improves Time Management – Helps managers prioritize critical tasks and adjust schedules if needed.
 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+The core issues should address inefficiencies,user pain points,or gaps in current solutions.Understanding these problems ensures your software delivers meanungful value to your target audience.
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
+Clearly defining the problem ensures that softwre is tailored to the exact needs of the target audience ,preventing unnecessary features and increasing  the lkelihood of success
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+you should state the core benefits and outcomes ,such as improving efficiency, saving time, or enhancing user experience, without focusing on the underlying technology.
 ## 11. What are the main features or functionalities that make your software stand out?
+Highlight unique features such as automation, integration with other tools,user-friendliness, scalability,and security,which solve specific pain points for users.
 ## 12. What data is available regarding the market size and growth potential for your software?
+Market research reports, industry surveys, and competitor analysis can provide data on the software's target market size, growth trends,and demand potential.
 ## 13. How can understanding market trends inform your software’s positioning and development?
+By nalyzing market trends, you can identify customer needs, predict future demands, and ensure your software remains competitive and relevant in the marketplace
